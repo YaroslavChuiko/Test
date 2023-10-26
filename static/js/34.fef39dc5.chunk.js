@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[34],{34:function(t,u,e){e.r(u),e.d(u,{DummyList:function(){return s}});e(791);var n=e(184),s=function(){return(0,n.jsx)("div",{children:"DummyList"})};u.default=s}}]);
+//# sourceMappingURL=34.fef39dc5.chunk.js.map
