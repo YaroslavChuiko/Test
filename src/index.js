@@ -9,6 +9,10 @@ root.render(
     <HashRouter>
       <App />
     </HashRouter>
+    {/* 
+      I am using HashRouter because "GitHub Pages doesn’t support routers that use the HTML5 pushState history API under the hood (for example, React Router using browserHistory)."
+      https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing
+    */}
   </React.StrictMode>
 );
 
